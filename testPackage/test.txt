@@ -3,5 +3,9 @@ nowy wpis
 dttt
 tt
 t
-t
+tds
+<<<<<<< Updated upstream
+=======
 to jest plik testowy
+nowa zmiana
+>>>>>>> Stashed changes
