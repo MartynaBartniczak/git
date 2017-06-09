@@ -8,5 +8,6 @@ tds
 =======
 to jest plik testowy
 nowa zmiana
-nowość
+nowy feature
 >>>>>>> Stashed changes
+
