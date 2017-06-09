@@ -1,4 +1,5 @@
 .DS_Store
 .idea
 
-.prywatnyPlik
+.testPackage/prywa*Plik
+.gitignore
