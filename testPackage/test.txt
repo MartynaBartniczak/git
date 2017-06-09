@@ -10,3 +10,4 @@ reeyerryheyhuu
 <h1> tu jest jakis sobie h1 </h1>
 <h2> tu bedzie jakis kiedys sobie h2 </h2>gut
 >>>>>>> Stashed changes
+erherhweth
