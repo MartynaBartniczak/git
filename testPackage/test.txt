@@ -4,3 +4,6 @@ dttt
 tt
 t
 t
+zmiana
+zmiana2
+zmiana3
